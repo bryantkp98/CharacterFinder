@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_CharacterFinder_FILE /Volumes/SUPERSTORAGE/CharacterFinder/build/Qt_6_9_1_for_macOS-Debug/CharacterFinder.app/Contents/MacOS/CharacterFinder)
+set(__QT_DEPLOY_TARGET_CharacterFinder_TYPE EXECUTABLE)

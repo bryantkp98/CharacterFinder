@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/Volumes/SUPERSTORAGE/CharacterFinder/build/Qt_6_9_1_for_macOS-Debug/CharacterFinder_autogen",
+	"CMAKE_BINARY_DIR" : "/Volumes/SUPERSTORAGE/CharacterFinder/build/Qt_6_9_1_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Volumes/SUPERSTORAGE/CharacterFinder/build/Qt_6_9_1_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Volumes/SUPERSTORAGE/CharacterFinder",
+	"CMAKE_SOURCE_DIR" : "/Volumes/SUPERSTORAGE/CharacterFinder",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/Volumes/SUPERSTORAGE/CharacterFinder/build/Qt_6_9_1_for_macOS-Debug/CharacterFinder_autogen/include",
+	"INPUTS" : [ "/Volumes/SUPERSTORAGE/CharacterFinder/Test.txt" ],
+	"LOCK_FILE" : "/Volumes/SUPERSTORAGE/CharacterFinder/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/CharacterFinder_autogen.dir/AutoRcc_TestFile_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "TestFile" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_TestFile.cpp",
+	"RCC_EXECUTABLE" : "/Users/kameronbryant/Qt/6.9.1/macos/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Volumes/SUPERSTORAGE/CharacterFinder/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/CharacterFinder_autogen.dir/AutoRcc_TestFile_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Volumes/SUPERSTORAGE/CharacterFinder/TestFile.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
